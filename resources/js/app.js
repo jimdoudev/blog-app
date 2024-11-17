@@ -1,4 +1,4 @@
-import "./bootstrap";
+// import "./bootstrap";
 
 const menuButton = document.querySelector("#menu-button");
 const closeMenuButton = document.querySelector("#close-menu-button");
